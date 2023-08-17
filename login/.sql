@@ -1,0 +1,1 @@
+select * from anusha where husbandname =ranjith
